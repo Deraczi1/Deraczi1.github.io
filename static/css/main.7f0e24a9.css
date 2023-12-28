@@ -62,12 +62,7 @@
     transition: padding 300ms ease;
   
   } 
-  @import 'https://unpkg.com/open-props' layer(design.system);
-  @import 'https://unpkg.com/open-props/normalize.dark.min.css'
-    layer(base.normalize);
-  
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200..900&family=Pacifico&display=swap');
-  
+
   
   
   .header {
