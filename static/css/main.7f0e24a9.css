@@ -129,7 +129,7 @@
   
   textarea::placeholder {
     font-size: 20px;
-    color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0.562);
   }
   
   button {
@@ -161,7 +161,7 @@
   
   textarea::placeholder {
     font-size: 15px;
-    color: rgba(0, 0, 0, 0.25);
+    color: rgba(255, 255, 255, 0.562);
   }
   
   }
